@@ -2,7 +2,7 @@
 Java project
 application.properties file consist of:
 
-spring.datasource.url=jdbc:postgresql://localhost/bruhmoments
+spring.datasource.url=jdbc:postgresql://localhost/bruhmoments <br>
 spring.datasource.username=postgres
 spring.datasource.password= *your db password*
 spring.jpa.generate-ddl=true
