@@ -1,5 +1,5 @@
 # bruhmoments
-Java project
+Java project <br>
 application.properties file consist of:
 
 spring.datasource.url=jdbc:postgresql://localhost/bruhmoments <br>
